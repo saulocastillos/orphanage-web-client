@@ -20,7 +20,7 @@ function OrphanagesMap() {
         </header>
 
         <footer>
-          <strong>Cubatão</strong>
+          <strong>São Paulo</strong>
           <span>São Paulo</span>
         </footer>
       </aside>
