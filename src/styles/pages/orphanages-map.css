@@ -36,12 +36,17 @@
   line-height: 24px;
 }
 
+#page-map .leaflet-container {
+  z-index: 5;
+}
+
 #page-map aside strong {
   font-weight: 800;
 }
 
 #page-map .create-orphanage {
   position: absolute;
+  z-index: 10;
   right: 40px;
   top: 40px;
 
